@@ -2,7 +2,7 @@
 
 Site da **JW Refrigeração Automotiva**, oficina especializada em ar-condicionado automotivo em Parnaíba-PI. A página apresenta os serviços, mostra fotos da oficina e leva o visitante direto para um orçamento pelo WhatsApp.
 
-![Prévia do site](img/og.jpg)
+
 
 ## Funcionalidades
 
@@ -70,11 +70,6 @@ npx vercel --prod
 
 Também é possível importar este repositório no painel da Vercel. A cada `push` na branch principal, o site é publicado automaticamente.
 
-## Contato da oficina
-
-- **WhatsApp:** (86) 99457-1414
-- **Endereço:** Av. Dr. João Silva Filho, quadra A, casa 13 — Frei Higino, Parnaíba-PI
-- **Instagram:** [@jw_refrigeracao_automotiva_phb](https://www.instagram.com/jw_refrigeracao_automotiva_phb/)
 
 ---
 
